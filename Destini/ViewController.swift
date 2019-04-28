@@ -9,7 +9,7 @@ class ViewController: UIViewController {
     //MARK: Properties
     // Our strings
     let story1 = "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\"."
-    let answer1a = "I\'ll hop in. Thanks for the help!"
+    let answer1a = "I\'ll hop in. Thanks for the help"
     let answer1b = "Better ask him if he\'s a murderer first."
     
     
