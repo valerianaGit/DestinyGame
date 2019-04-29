@@ -10,12 +10,12 @@ class ViewController: UIViewController {
     // Our strings
     let story1 = "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\"."
     let answer1a = "I\'ll hop in. Thanks for the help"
-    let answer1b = "Better ask him if he\'s a murderer first."
+    let answer1b = "He might be a murderer, ask him."
     
     
     let story2 = "He nods slowly, unphased by the question."
     let answer2a = "At least he\'s honest. I\'ll climb in."
-    let answer2b = "Wait, I know how to change a tire."
+    let answer2b = "I know how to change a tire. I'll help"
     
     let story3 = "As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box."
     let answer3a = "I love Elton John! Hand him the cassette tape."
